@@ -6,7 +6,7 @@ git clone https://github.com/XuifXyz/fun2.git
 
 
 
-cs fun2
+cd Fun2
 
 
 
