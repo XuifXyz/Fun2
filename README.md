@@ -14,7 +14,7 @@ cs fun2
 
 
 
-python3 Termux-udp.py
+python3 Termux-Udp.py
 
 
 
